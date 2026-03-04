@@ -3,7 +3,7 @@
  *
  * Debug phpBB. An extension for the phpBB Forum Software package.
  *
- * @copyright (c) 2022-forever, Dark❶, https://dark1.tech
+ * @copyright (c) 2022-forever, Dark❶
  * @license GNU General Public License, version 2 (GPL-2.0)
  *
  */
